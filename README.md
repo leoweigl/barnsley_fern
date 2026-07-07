@@ -4,6 +4,8 @@ A C implementation of the [Barnsley Fern](https://en.wikipedia.org/wiki/Barnsley
 
 ## How it works
 
+![Barnsley Fern](examples/fern.png)
+
 Starting from a single point at the origin, the algorithm repeatedly applies one of four affine transformations to the current point, chosen at random according to fixed probabilities:
 
 | Transformation | Probability | Role |
