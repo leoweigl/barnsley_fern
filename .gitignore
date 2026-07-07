@@ -1,0 +1,12 @@
+# Build output
+cmake-build-*/
+build/
+*.exe
+*.o
+*.obj
+
+# IDE
+.idea/
+
+# Optionally keep one example image - remove the line above and add it back explicitly if you want to showcase one, e.g.:
+# !example.ppm
